@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+C:\Users\tariq\AppData\Local\Epic Privacy Browser\Installer\EpicUpdate.exe (pid=820)
+goopdate\goopdate.cc:977
+
+false
+ResourceManager::Create failed with 0x80070002
+
